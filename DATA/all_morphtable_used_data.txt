@@ -1,0 +1,5 @@
+The all_morphtable file was too large to upload to GitHub, however it can be found here:
+
+ftp://ftp.mokk.bme.hu/Language/Hungarian/Corp/Webcorp/ana/
+
+Please download all_morphtable.gz, unpack it, open it in a text editor, and use rows 2294693 to 7657427.
