@@ -1,6 +1,5 @@
 ## Automatic morpheme splitting program in English and Hungarian
 By: Pfeifer Dániel<br>
-N65V6V
 
 This is a program that, given an input word, is capable of slpitting the word into morphemes (word stem and particles). I will first try to accomplish this in English, since there aren't nearly as many morphemes as in Hungarian, then if all goes well, I'll continie the project on Hungarian words. If the latter doesn't work out, I'll still have something to show.
 
